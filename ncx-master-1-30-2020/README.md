@@ -1,2 +1,0 @@
-# ncx
-NCX Exchanger Modeling
